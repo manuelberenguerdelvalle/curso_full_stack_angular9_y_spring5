@@ -1,0 +1,12 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Manuel', 'Berenguer', 'manuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Aanuel', 'Berenguer', 'aanuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Panuel', 'Berenguer', 'panuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Januel', 'Berenguer', 'januel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Tanuel', 'Berenguer', 'tanuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Ranuel', 'Berenguer', 'ranuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Nanuel', 'Berenguer', 'nanuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Banuel', 'Berenguer', 'banuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Canuel', 'Berenguer', 'canuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Zanuel', 'Berenguer', 'zanuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Yanuel', 'Berenguer', 'yanuel@gmail.com','2020-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Hanuel', 'Berenguer', 'hanuel@gmail.com','2020-01-01');
